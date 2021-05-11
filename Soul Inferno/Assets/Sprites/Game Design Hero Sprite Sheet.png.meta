@@ -1,0 +1,863 @@
+fileFormatVersion: 2
+guid: be216f64c7c18b840838cecd32238eda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8487187025491549496
+    second: Game Design Hero Sprite Sheet_0
+  - first:
+      213: -2512679069472045327
+    second: Game Design Hero Sprite Sheet_1
+  - first:
+      213: -548692167313341536
+    second: Game Design Hero Sprite Sheet_2
+  - first:
+      213: -1534770279123627164
+    second: Game Design Hero Sprite Sheet_3
+  - first:
+      213: -860739418370175273
+    second: Game Design Hero Sprite Sheet_4
+  - first:
+      213: -1532615909204812818
+    second: Game Design Hero Sprite Sheet_5
+  - first:
+      213: -5708547436285806301
+    second: Game Design Hero Sprite Sheet_6
+  - first:
+      213: 3930323606599492350
+    second: Game Design Hero Sprite Sheet_7
+  - first:
+      213: -1539796021128099746
+    second: Game Design Hero Sprite Sheet_8
+  - first:
+      213: 6726887965663619779
+    second: Game Design Hero Sprite Sheet_9
+  - first:
+      213: -1149006355263929425
+    second: Game Design Hero Sprite Sheet_10
+  - first:
+      213: -5413448651488790763
+    second: Game Design Hero Sprite Sheet_11
+  - first:
+      213: -7436982032339099345
+    second: Game Design Hero Sprite Sheet_12
+  - first:
+      213: -2898848542403898976
+    second: Game Design Hero Sprite Sheet_13
+  - first:
+      213: 5182889342954873034
+    second: Game Design Hero Sprite Sheet_14
+  - first:
+      213: -6656628888822128238
+    second: Game Design Hero Sprite Sheet_15
+  - first:
+      213: 1650309066189932964
+    second: Game Design Hero Sprite Sheet_16
+  - first:
+      213: -8166246744166051957
+    second: Game Design Hero Sprite Sheet_17
+  - first:
+      213: -6479458108903331064
+    second: Game Design Hero Sprite Sheet_18
+  - first:
+      213: 7067683900315721684
+    second: Game Design Hero Sprite Sheet_19
+  - first:
+      213: -5011350009076986919
+    second: Game Design Hero Sprite Sheet_20
+  - first:
+      213: 3937729121029715815
+    second: Game Design Hero Sprite Sheet_21
+  - first:
+      213: 4433225757421418046
+    second: Game Design Hero Sprite Sheet_22
+  - first:
+      213: -2546121372892424304
+    second: Game Design Hero Sprite Sheet_23
+  - first:
+      213: 958643807871095164
+    second: Game Design Hero Sprite Sheet_24
+  - first:
+      213: -1471296305018430649
+    second: Game Design Hero Sprite Sheet_25
+  - first:
+      213: 7364305220923743910
+    second: Game Design Hero Sprite Sheet_26
+  - first:
+      213: -3927053563523256594
+    second: Game Design Hero Sprite Sheet_27
+  - first:
+      213: -7310907888613957494
+    second: Game Design Hero Sprite Sheet_28
+  - first:
+      213: -5978405495922917312
+    second: Game Design Hero Sprite Sheet_29
+  - first:
+      213: 3960231794016876
+    second: Game Design Hero Sprite Sheet_30
+  - first:
+      213: 5986770105658491383
+    second: Game Design Hero Sprite Sheet_31
+  - first:
+      213: -5949406116992467391
+    second: Game Design Hero Sprite Sheet_32
+  - first:
+      213: -4074027313770583144
+    second: Game Design Hero Sprite Sheet_33
+  - first:
+      213: -6806181025459054186
+    second: Game Design Hero Sprite Sheet_34
+  - first:
+      213: 9120878100981265676
+    second: Game Design Hero Sprite Sheet_35
+  - first:
+      213: 7372343917526363607
+    second: Game Design Hero Sprite Sheet_36
+  - first:
+      213: 3214794330371432204
+    second: Game Design Hero Sprite Sheet_37
+  - first:
+      213: 823606804936149665
+    second: Game Design Hero Sprite Sheet_38
+  - first:
+      213: -3134917510152247512
+    second: Game Design Hero Sprite Sheet_39
+  - first:
+      213: -424035018912012714
+    second: Game Design Hero Sprite Sheet_40
+  - first:
+      213: -8993206987619011862
+    second: Game Design Hero Sprite Sheet_41
+  - first:
+      213: -5039837069676377077
+    second: Game Design Hero Sprite Sheet_42
+  - first:
+      213: -4099871947708671385
+    second: Game Design Hero Sprite Sheet_43
+  - first:
+      213: -353201633553733908
+    second: Game Design Hero Sprite Sheet_44
+  - first:
+      213: 2803113315066570858
+    second: Game Design Hero Sprite Sheet_45
+  - first:
+      213: -2919299270139984405
+    second: Game Design Hero Sprite Sheet_46
+  - first:
+      213: -8892408716815816117
+    second: Game Design Hero Sprite Sheet_47
+  - first:
+      213: -5169737890751463164
+    second: Game Design Hero Sprite Sheet_48
+  - first:
+      213: -3352887592928221396
+    second: Game Design Hero Sprite Sheet_49
+  - first:
+      213: 8799794346544530437
+    second: Game Design Hero Sprite Sheet_50
+  - first:
+      213: 2107176740879107888
+    second: Game Design Hero Sprite Sheet_51
+  - first:
+      213: 7470531724715582132
+    second: Game Design Hero Sprite Sheet_52
+  - first:
+      213: 5195570797285910171
+    second: Game Design Hero Sprite Sheet_53
+  - first:
+      213: 3706254309692842060
+    second: Game Design Hero Sprite Sheet_54
+  - first:
+      213: 5024094034865831501
+    second: Game Design Hero Sprite Sheet_55
+  - first:
+      213: -4083536277942414215
+    second: Game Design Hero Sprite Sheet_56
+  - first:
+      213: 8435881754595642371
+    second: Game Design Hero Sprite Sheet_57
+  - first:
+      213: -2169288774091638334
+    second: Game Design Hero Sprite Sheet_58
+  - first:
+      213: 8201053549600623034
+    second: Game Design Hero Sprite Sheet_59
+  - first:
+      213: -506324556493526143
+    second: Game Design Hero Sprite Sheet_60
+  - first:
+      213: -4191573605759246692
+    second: Game Design Hero Sprite Sheet_61
+  - first:
+      213: 358637858045487160
+    second: Game Design Hero Sprite Sheet_62
+  - first:
+      213: -635560852263679080
+    second: Game Design Hero Sprite Sheet_63
+  - first:
+      213: -8645443581210900480
+    second: Game Design Hero Sprite Sheet_64
+  - first:
+      213: -3123598894873251039
+    second: Game Design Hero Sprite Sheet_65
+  - first:
+      213: -3126077834836629356
+    second: Game Design Hero Sprite Sheet_66
+  - first:
+      213: -7415381804385546316
+    second: Game Design Hero Sprite Sheet_67
+  - first:
+      213: 8943577291480214501
+    second: Game Design Hero Sprite Sheet_68
+  - first:
+      213: 2280221341233260700
+    second: Game Design Hero Sprite Sheet_69
+  - first:
+      213: -6097042740364118993
+    second: Game Design Hero Sprite Sheet_70
+  - first:
+      213: 4670296183032083473
+    second: Game Design Hero Sprite Sheet_71
+  - first:
+      213: -6838409359046469905
+    second: Game Design Hero Sprite Sheet_72
+  - first:
+      213: 1445716887497818360
+    second: Game Design Hero Sprite Sheet_73
+  - first:
+      213: -517040029885577445
+    second: Game Design Hero Sprite Sheet_74
+  - first:
+      213: -2992260592353667076
+    second: Game Design Hero Sprite Sheet_75
+  - first:
+      213: -1075457225818537726
+    second: Game Design Hero Sprite Sheet_76
+  - first:
+      213: 6891732768107021804
+    second: Game Design Hero Sprite Sheet_77
+  - first:
+      213: -1302208053226345824
+    second: Game Design Hero Sprite Sheet_78
+  - first:
+      213: -4848298966378742699
+    second: Game Design Hero Sprite Sheet_79
+  - first:
+      213: 6647743098349227907
+    second: Game Design Hero Sprite Sheet_80
+  - first:
+      213: 1992119921746476491
+    second: Game Design Hero Sprite Sheet_81
+  - first:
+      213: -1091288053634035192
+    second: Game Design Hero Sprite Sheet_82
+  - first:
+      213: -3033277166839720433
+    second: Game Design Hero Sprite Sheet_83
+  - first:
+      213: 4053342981242639440
+    second: Game Design Hero Sprite Sheet_84
+  - first:
+      213: 223432172073570730
+    second: Game Design Hero Sprite Sheet_85
+  - first:
+      213: 7440680239005881930
+    second: Game Design Hero Sprite Sheet_86
+  - first:
+      213: 8771332754211080059
+    second: Game Design Hero Sprite Sheet_87
+  - first:
+      213: 1431338344328089454
+    second: Game Design Hero Sprite Sheet_88
+  - first:
+      213: 793201213868590503
+    second: Game Design Hero Sprite Sheet_89
+  - first:
+      213: -4490636240996897400
+    second: Game Design Hero Sprite Sheet_90
+  - first:
+      213: -6339146907185384048
+    second: Game Design Hero Sprite Sheet_91
+  - first:
+      213: 1031005128715114778
+    second: Game Design Hero Sprite Sheet_92
+  - first:
+      213: -6601459313652408642
+    second: Game Design Hero Sprite Sheet_93
+  - first:
+      213: -6442460825622908274
+    second: Game Design Hero Sprite Sheet_94
+  - first:
+      213: 1393639826396877363
+    second: Game Design Hero Sprite Sheet_95
+  - first:
+      213: -6416052293976561287
+    second: Game Design Hero Sprite Sheet_96
+  - first:
+      213: -6887714766766555925
+    second: Game Design Hero Sprite Sheet_97
+  - first:
+      213: 2424821123874515552
+    second: Game Design Hero Sprite Sheet_98
+  - first:
+      213: -5198276899225215803
+    second: Game Design Hero Sprite Sheet_99
+  - first:
+      213: -6151306506880564409
+    second: Game Design Hero Sprite Sheet_100
+  - first:
+      213: 7780695447815988447
+    second: Game Design Hero Sprite Sheet_101
+  - first:
+      213: 7319512313948846869
+    second: Game Design Hero Sprite Sheet_102
+  - first:
+      213: 5618538688562649000
+    second: Game Design Hero Sprite Sheet_103
+  - first:
+      213: 2248611115300875263
+    second: Game Design Hero Sprite Sheet_104
+  - first:
+      213: 6953085157439683357
+    second: Game Design Hero Sprite Sheet_105
+  - first:
+      213: -2442160937931311809
+    second: Game Design Hero Sprite Sheet_106
+  - first:
+      213: -5424605641984509070
+    second: Game Design Hero Sprite Sheet_107
+  - first:
+      213: -5598894846868077853
+    second: Game Design Hero Sprite Sheet_108
+  - first:
+      213: 512079584369035621
+    second: Game Design Hero Sprite Sheet_109
+  - first:
+      213: -737881336270656534
+    second: Game Design Hero Sprite Sheet_110
+  - first:
+      213: 8646470003047134180
+    second: Game Design Hero Sprite Sheet_111
+  - first:
+      213: 6700721293556043318
+    second: Game Design Hero Sprite Sheet_112
+  - first:
+      213: -2784387728421289598
+    second: Game Design Hero Sprite Sheet_113
+  - first:
+      213: 443381212869532956
+    second: Game Design Hero Sprite Sheet_114
+  - first:
+      213: -666786684806455223
+    second: Game Design Hero Sprite Sheet_115
+  - first:
+      213: -6579133540307752795
+    second: Game Design Hero Sprite Sheet_116
+  - first:
+      213: 3969974772519085484
+    second: Game Design Hero Sprite Sheet_117
+  - first:
+      213: -3639692705430271596
+    second: Game Design Hero Sprite Sheet_118
+  - first:
+      213: -4900072241366219520
+    second: Game Design Hero Sprite Sheet_119
+  - first:
+      213: 8618060027769514406
+    second: Game Design Hero Sprite Sheet_120
+  - first:
+      213: 5160032361640504103
+    second: Game Design Hero Sprite Sheet_121
+  - first:
+      213: 3868327905544297045
+    second: Game Design Hero Sprite Sheet_122
+  - first:
+      213: 9140219511959539724
+    second: Game Design Hero Sprite Sheet_123
+  - first:
+      213: -6447892596783456026
+    second: Game Design Hero Sprite Sheet_124
+  - first:
+      213: -3695424288109729474
+    second: Game Design Hero Sprite Sheet_125
+  - first:
+      213: 8115603388884409786
+    second: Game Design Hero Sprite Sheet_126
+  - first:
+      213: 6274785026696745100
+    second: Game Design Hero Sprite Sheet_127
+  - first:
+      213: -2307396766540251007
+    second: Game Design Hero Sprite Sheet_128
+  - first:
+      213: 1103503362040523057
+    second: Game Design Hero Sprite Sheet_129
+  - first:
+      213: -1277588657750961637
+    second: Game Design Hero Sprite Sheet_130
+  - first:
+      213: -8994782774763274598
+    second: Game Design Hero Sprite Sheet_131
+  - first:
+      213: -791574932423199989
+    second: Game Design Hero Sprite Sheet_132
+  - first:
+      213: 389238417655847907
+    second: Game Design Hero Sprite Sheet_133
+  - first:
+      213: -3367675965776740927
+    second: Game Design Hero Sprite Sheet_134
+  - first:
+      213: -769018240135069567
+    second: Game Design Hero Sprite Sheet_135
+  - first:
+      213: 8977194916291536715
+    second: Game Design Hero Sprite Sheet_136
+  - first:
+      213: 5634212224795325522
+    second: Game Design Hero Sprite Sheet_137
+  - first:
+      213: 8209926953317528990
+    second: Game Design Hero Sprite Sheet_138
+  - first:
+      213: -6752006516852499846
+    second: Game Design Hero Sprite Sheet_139
+  - first:
+      213: 500916386708040066
+    second: Game Design Hero Sprite Sheet_140
+  - first:
+      213: 2404925186094065124
+    second: Game Design Hero Sprite Sheet_141
+  - first:
+      213: -7272109468274900727
+    second: Game Design Hero Sprite Sheet_142
+  - first:
+      213: 4054863851009469090
+    second: Game Design Hero Sprite Sheet_143
+  - first:
+      213: -1949509255430549658
+    second: Game Design Hero Sprite Sheet_144
+  - first:
+      213: 4373227025672434013
+    second: Game Design Hero Sprite Sheet_145
+  - first:
+      213: -1829029963643003775
+    second: Game Design Hero Sprite Sheet_146
+  - first:
+      213: 5559512390125780657
+    second: Game Design Hero Sprite Sheet_147
+  - first:
+      213: 5839187183468537015
+    second: Game Design Hero Sprite Sheet_148
+  - first:
+      213: -4351988136172155454
+    second: Game Design Hero Sprite Sheet_149
+  - first:
+      213: -7923585274090148636
+    second: Game Design Hero Sprite Sheet_150
+  - first:
+      213: -3969476911439810444
+    second: Game Design Hero Sprite Sheet_151
+  - first:
+      213: 793225125531787390
+    second: Game Design Hero Sprite Sheet_152
+  - first:
+      213: -4424424575347181768
+    second: Game Design Hero Sprite Sheet_153
+  - first:
+      213: 2555192121151046233
+    second: Game Design Hero Sprite Sheet_154
+  - first:
+      213: 7187725275120016823
+    second: Game Design Hero Sprite Sheet_155
+  - first:
+      213: -8423990389110282313
+    second: Game Design Hero Sprite Sheet_156
+  - first:
+      213: -8987977328395855248
+    second: Game Design Hero Sprite Sheet_157
+  - first:
+      213: 135896169334632101
+    second: Game Design Hero Sprite Sheet_158
+  - first:
+      213: 4243964726521681973
+    second: Game Design Hero Sprite Sheet_159
+  - first:
+      213: -78250588276618866
+    second: Game Design Hero Sprite Sheet_160
+  - first:
+      213: 1648635451776524008
+    second: Game Design Hero Sprite Sheet_161
+  - first:
+      213: -516695029492861916
+    second: Game Design Hero Sprite Sheet_162
+  - first:
+      213: 6046447060902302868
+    second: Game Design Hero Sprite Sheet_163
+  - first:
+      213: -5196160623211262610
+    second: Game Design Hero Sprite Sheet_164
+  - first:
+      213: -4445954083398759936
+    second: Game Design Hero Sprite Sheet_165
+  - first:
+      213: 4358927710533838002
+    second: Game Design Hero Sprite Sheet_166
+  - first:
+      213: -7433521695061098360
+    second: Game Design Hero Sprite Sheet_167
+  - first:
+      213: 2392813761115527415
+    second: Game Design Hero Sprite Sheet_168
+  - first:
+      213: -7047734233820573712
+    second: Game Design Hero Sprite Sheet_169
+  - first:
+      213: 5751233451561712713
+    second: Game Design Hero Sprite Sheet_170
+  - first:
+      213: -4501829211151065228
+    second: Game Design Hero Sprite Sheet_171
+  - first:
+      213: -7365575396764402174
+    second: Game Design Hero Sprite Sheet_172
+  - first:
+      213: 6414532837126179627
+    second: Game Design Hero Sprite Sheet_173
+  - first:
+      213: -5805245317023565206
+    second: Game Design Hero Sprite Sheet_174
+  - first:
+      213: -6831345118063535110
+    second: Game Design Hero Sprite Sheet_175
+  - first:
+      213: -1728920365849201146
+    second: Game Design Hero Sprite Sheet_176
+  - first:
+      213: 6954316512023444834
+    second: Game Design Hero Sprite Sheet_177
+  - first:
+      213: -2737224846677531257
+    second: Game Design Hero Sprite Sheet_178
+  - first:
+      213: 6764683284139018405
+    second: Game Design Hero Sprite Sheet_179
+  - first:
+      213: 1939464588595989920
+    second: Game Design Hero Sprite Sheet_180
+  - first:
+      213: -116217687436024200
+    second: Game Design Hero Sprite Sheet_181
+  - first:
+      213: 3416491891786587672
+    second: Game Design Hero Sprite Sheet_182
+  - first:
+      213: -2321802411195064198
+    second: Game Design Hero Sprite Sheet_183
+  - first:
+      213: -5244037498489738904
+    second: Game Design Hero Sprite Sheet_184
+  - first:
+      213: -2124056638568378519
+    second: Game Design Hero Sprite Sheet_185
+  - first:
+      213: 3701886585355106070
+    second: Game Design Hero Sprite Sheet_186
+  - first:
+      213: -8346168103110433200
+    second: Game Design Hero Sprite Sheet_187
+  - first:
+      213: 8777192446360147494
+    second: Game Design Hero Sprite Sheet_188
+  - first:
+      213: -4700427683044545057
+    second: Game Design Hero Sprite Sheet_189
+  - first:
+      213: 2932752925562045842
+    second: Game Design Hero Sprite Sheet_190
+  - first:
+      213: -4566329704274902571
+    second: Game Design Hero Sprite Sheet_191
+  - first:
+      213: -7409755962777311751
+    second: Game Design Hero Sprite Sheet_192
+  - first:
+      213: 4606930431532393221
+    second: Game Design Hero Sprite Sheet_193
+  - first:
+      213: 824731745742085647
+    second: Game Design Hero Sprite Sheet_194
+  - first:
+      213: 8290785947068780766
+    second: Game Design Hero Sprite Sheet_195
+  - first:
+      213: 7717268795067961182
+    second: Game Design Hero Sprite Sheet_196
+  - first:
+      213: 2973986075382129900
+    second: Game Design Hero Sprite Sheet_197
+  - first:
+      213: 1386748067941213696
+    second: Game Design Hero Sprite Sheet_198
+  - first:
+      213: -2842318738476973678
+    second: Game Design Hero Sprite Sheet_199
+  - first:
+      213: -7890610375509065335
+    second: Game Design Hero Sprite Sheet_200
+  - first:
+      213: 1190460251280361516
+    second: Game Design Hero Sprite Sheet_201
+  - first:
+      213: 4402988940814318509
+    second: Game Design Hero Sprite Sheet_202
+  - first:
+      213: -2343386641208918522
+    second: Game Design Hero Sprite Sheet_203
+  - first:
+      213: -4064339465054153371
+    second: Game Design Hero Sprite Sheet_204
+  - first:
+      213: -4748944643100826862
+    second: Game Design Hero Sprite Sheet_205
+  - first:
+      213: -8461726135087528241
+    second: Game Design Hero Sprite Sheet_206
+  - first:
+      213: -3509793121922484599
+    second: Game Design Hero Sprite Sheet_207
+  - first:
+      213: -6097255658012605169
+    second: Game Design Hero Sprite Sheet_208
+  - first:
+      213: -3504206272297306337
+    second: Game Design Hero Sprite Sheet_209
+  - first:
+      213: -2304007649232105309
+    second: Game Design Hero Sprite Sheet_210
+  - first:
+      213: -5143624292554737075
+    second: Game Design Hero Sprite Sheet_211
+  - first:
+      213: 7737390704565189833
+    second: Game Design Hero Sprite Sheet_212
+  - first:
+      213: 2812772855832892398
+    second: Game Design Hero Sprite Sheet_213
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Design Hero Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2a54b0e54773a80800000000000000
+      internalID: -8487187025491549496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Design Hero Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64f85f2bb212dd0800000000000000
+      internalID: -2512679069472045327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Design Hero Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3cf348167a268f0800000000000000
+      internalID: -548692167313341536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Design Hero Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463520d009663bae0800000000000000
+      internalID: -1534770279123627164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Design Hero Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8ed33f0a0e04f0800000000000000
+      internalID: -860739418370175273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

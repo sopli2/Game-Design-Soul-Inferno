@@ -54,7 +54,7 @@ public class Move : MonoBehaviour
         }
         if (Input.GetKey("space") && isGrounded || Input.GetKey("w") && isGrounded)
         {
-            rb2d.velocity = new Vector2(rb2d.velocity.x, 2);
+            rb2d.velocity = new Vector2(rb2d.velocity.x, 4);
         }
     }
 }
