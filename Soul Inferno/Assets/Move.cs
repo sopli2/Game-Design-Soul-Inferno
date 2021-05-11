@@ -37,19 +37,19 @@ public class Move : MonoBehaviour
         // change the animator's AnimState variable if a key is pressed
         if (Input.GetKey("d") || Input.GetKey("right"))
         {
-            //animator.SetInteger("AnimState", 1);
-            rb2d.velocity = new Vector2(2, rb2d.velocity.y);
+            animator.SetInteger("AnimState", 1);
+            rb2d.velocity = new Vector2(1, rb2d.velocity.y);
             spriteRenderer.flipX = false;
         }
         else if (Input.GetKey("a") || Input.GetKey("left"))
         {
-            //animator.SetInteger("AnimState", 1);
-            rb2d.velocity = new Vector2(-2, rb2d.velocity.y);
+            animator.SetInteger("AnimState", 1);
+            rb2d.velocity = new Vector2(-1, rb2d.velocity.y);
             spriteRenderer.flipX = true;
         }
         else
         {
-            //animator.SetInteger("AnimState", 0);
+            animator.SetInteger("AnimState", 0);
             rb2d.velocity = new Vector2(0, rb2d.velocity.y);
         }
         if (Input.GetKey("space") && isGrounded || Input.GetKey("w") && isGrounded)
