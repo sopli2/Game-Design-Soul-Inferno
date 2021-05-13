@@ -40,9 +40,14 @@ public class Move : MonoBehaviour
             if (!isGrounded)
             {
                 animator.SetInteger("AnimState", 2);
+                GetComponent<AudioSource>().Pause();
             }
             else
             {
+                if (GetComponent<AudioSource>().isPlaying == false)
+                {
+                    GetComponent<AudioSource>().Play();
+                }
                 animator.SetInteger("AnimState", 1);
             }
             rb2d.velocity = new Vector2(1, rb2d.velocity.y);
@@ -53,9 +58,14 @@ public class Move : MonoBehaviour
             if (!isGrounded)
             {
                 animator.SetInteger("AnimState", 2);
+                GetComponent<AudioSource>().Pause();
             }
             else
             {
+                if (GetComponent<AudioSource>().isPlaying == false)
+                {
+                    GetComponent<AudioSource>().Play();
+                }
                 animator.SetInteger("AnimState", 1);
             }
             rb2d.velocity = new Vector2(-1, rb2d.velocity.y);
@@ -65,6 +75,7 @@ public class Move : MonoBehaviour
         {
             animator.SetInteger("AnimState", 0);
             rb2d.velocity = new Vector2(0, rb2d.velocity.y);
+            GetComponent<AudioSource>().Pause();
         }
         if (Input.GetKey("up") && isGrounded || Input.GetKey("w") && isGrounded)
         {
