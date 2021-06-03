@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e4ee4213d021cb40ab8a184f840bcda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - walk: {fileID: 8300000, guid: 646954c5102ac9846a1bebb85d1aed6b, type: 3}
+  - jump: {fileID: 8300000, guid: b96542068f015e74692fb2bfdc248634, type: 3}
+  - audioWalk: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
